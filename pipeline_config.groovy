@@ -7,4 +7,5 @@
 libraries{
   merge = true 
   sonarqube
+  github_enterprise
 }
