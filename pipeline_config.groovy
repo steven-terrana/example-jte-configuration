@@ -9,3 +9,8 @@ libraries{
   sonarqube
   github_enterprise
 }
+
+
+application_environments{
+  dev{} 
+}
