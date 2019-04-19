@@ -7,6 +7,7 @@
 libraries{
   merge = true 
   sonarqube
+  maven
 }
 
 
