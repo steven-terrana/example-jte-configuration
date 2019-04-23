@@ -14,3 +14,14 @@ libraries{
 application_environments{
   dev{} 
 }
+
+steps{
+  step_from_config{
+    image = "maven" 
+    command = "mvn -v" 
+  }
+}
+
+template_methods{
+  passthrough
+}
