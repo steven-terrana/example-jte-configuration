@@ -1,3 +1,5 @@
-  unit_test()
-  build()
-  static_code_analysis()
+unit_test()
+build()
+static_code_analysis()
+step_from_config()
+passthrough()
