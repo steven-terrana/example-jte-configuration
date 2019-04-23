@@ -17,8 +17,8 @@ application_environments{
 
 steps{
   step_from_config{
-    image = "maven" 
-    command = "mvn -v" 
+    image = "maven"
+    command = "mvn -v"
   }
 }
 
