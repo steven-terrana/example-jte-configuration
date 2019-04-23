@@ -20,6 +20,7 @@ steps{
     image = "maven"
     command = "mvn -v"
   }
+  unit_test
 }
 
 template_methods{
